@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Pulkit jindal, a Android developer/Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ and a Former Cross platform Developer Intern. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Pulkit jindal, an Android developer/Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ and a Former Cross platform Developer Intern. Beside's programming, I enjoy eating food and traveling.
 
 <br />
 
