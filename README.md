@@ -27,7 +27,7 @@ Hi, I'm Pulkit jindal, an Android developer/Full Stack Developer 🚀 from India
 - 👨🏽‍💻 I’m currently working on [Expenso-Flutter](https://github.com/sounishnath003/Expenso);
 - 🌱 I’m currently learning the heats of C++ (CP-Algorithms)⚔;
 - 👯 I’m looking to collaborate on [Algorithms-Visualizations](https://github.com/sounishnath003/Expenso) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭❤;
+- 🤔 I’m looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pulkit-jindal-669589137/) | [Instagram](https://www.instagram.in/) ;
